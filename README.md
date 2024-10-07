@@ -18,7 +18,7 @@ The game is played on a 4x4 grid, with numbered tiles that can be combined to cr
 - Python 3.x
 - Tkinter library
 ## Installation
-- Clone the repository using git clone https://github.com/Yashas711/2048-game.git
+- Clone the repository using git clone https://github.com/Yashas711/2048-Game.git
 - Navigate to the project directory using cd 2048-game
 - Run the game using python game.py
 ## License
